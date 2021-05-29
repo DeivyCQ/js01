@@ -1,0 +1,51 @@
+* , *::before , ::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(4, 59, 59);
+    padding: auto;
+}
+
+h2,
+h1,
+p {
+    color: white;
+    padding: auto;
+    margin: auto;
+    list-style: none;
+}
+
+.header {
+    background-color: rgb(1, 1, 43);
+    width: auto;
+    height: auto;
+}
+
+.tittle {
+    display: flex;
+    justify-content: center;
+}
+
+.container-reto-1 {
+    background-color: rgb(6, 6, 82);
+    margin-top: 0.5cm;
+}
+
+.header-reto-2,
+.header-reto-1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 150%;
+}
+
+.pregunta-1 {
+    margin: auto;
+}
+
+.container-reto-2 {
+    background-color: rgb(4, 4, 155);
+    margin-top: 0.5cm;
+}
+
